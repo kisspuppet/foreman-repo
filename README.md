@@ -1,4 +1,4 @@
-安装forman1.5.2所需要的所有rpm包下载地址：
+All packages for Foreman and Puppet 
 ============
 
 All packages from the puppetlabs、theforeman、epel
